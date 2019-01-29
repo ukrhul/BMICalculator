@@ -1,0 +1,6 @@
+c:\users\rahul\documents\visual studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\Rahul\Documents\Visual Studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\Rahul\Documents\Visual Studio 2015\Projects\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\Rahul\Documents\Visual Studio 2015\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+C:\Users\Rahul\Documents\Visual Studio 2015\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\Rahul\Documents\Visual Studio 2015\Projects\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
